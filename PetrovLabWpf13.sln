@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetrovLabWpf13", "PetrovLabWpf13\PetrovLabWpf13.csproj", "{05B88475-370B-4788-AB33-A778C889FC70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05B88475-370B-4788-AB33-A778C889FC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B88475-370B-4788-AB33-A778C889FC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B88475-370B-4788-AB33-A778C889FC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B88475-370B-4788-AB33-A778C889FC70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1801694-DD6B-43A3-9F01-D2B620A31080}
+	EndGlobalSection
+EndGlobal

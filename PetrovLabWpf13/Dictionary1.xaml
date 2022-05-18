@@ -1,0 +1,17 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+                    xmlns:c="clr-namespace:System.Collections;assembly=mscorlib">
+    <c:ArrayList x:Key="fontSizes">
+        <sys:Double>10</sys:Double>
+        <sys:Double>12</sys:Double>
+        <sys:Double>14</sys:Double>
+        <sys:Double>16</sys:Double>
+    </c:ArrayList>
+
+    <c:ArrayList x:Key="fontNames">
+        <sys:String>Arial</sys:String>
+        <sys:String>ISOCPEUR</sys:String>
+        <sys:String>Verbana</sys:String>
+    </c:ArrayList>
+</ResourceDictionary>
